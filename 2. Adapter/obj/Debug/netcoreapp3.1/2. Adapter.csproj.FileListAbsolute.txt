@@ -1,0 +1,13 @@
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\2. Adapter\bin\Debug\netcoreapp3.1\2. Adapter.exe
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\2. Adapter\bin\Debug\netcoreapp3.1\2. Adapter.deps.json
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\2. Adapter\bin\Debug\netcoreapp3.1\2. Adapter.runtimeconfig.json
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\2. Adapter\bin\Debug\netcoreapp3.1\2. Adapter.runtimeconfig.dev.json
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\2. Adapter\bin\Debug\netcoreapp3.1\2. Adapter.dll
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\2. Adapter\bin\Debug\netcoreapp3.1\2. Adapter.pdb
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\2. Adapter\obj\Debug\netcoreapp3.1\2. Adapter.csprojAssemblyReference.cache
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\2. Adapter\obj\Debug\netcoreapp3.1\2. Adapter.AssemblyInfoInputs.cache
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\2. Adapter\obj\Debug\netcoreapp3.1\2. Adapter.AssemblyInfo.cs
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\2. Adapter\obj\Debug\netcoreapp3.1\2. Adapter.csproj.CoreCompileInputs.cache
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\2. Adapter\obj\Debug\netcoreapp3.1\2. Adapter.dll
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\2. Adapter\obj\Debug\netcoreapp3.1\2. Adapter.pdb
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\2. Adapter\obj\Debug\netcoreapp3.1\2. Adapter.genruntimeconfig.cache

@@ -1,0 +1,3 @@
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\4. Data Mapper\bin\Debug\netcoreapp3.1\4. Data Mapper.exe
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\4. Data Mapper\obj\Debug\netcoreapp3.1\4. Data Mapper.AssemblyInfoInputs.cache
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\4. Data Mapper\obj\Debug\netcoreapp3.1\4. Data Mapper.AssemblyInfo.cs

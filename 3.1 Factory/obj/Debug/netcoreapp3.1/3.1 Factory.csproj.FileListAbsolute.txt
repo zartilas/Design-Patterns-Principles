@@ -1,0 +1,12 @@
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\3.1 Factory\bin\Debug\netcoreapp3.1\3.1 Factory.exe
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\3.1 Factory\bin\Debug\netcoreapp3.1\3.1 Factory.deps.json
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\3.1 Factory\bin\Debug\netcoreapp3.1\3.1 Factory.runtimeconfig.json
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\3.1 Factory\bin\Debug\netcoreapp3.1\3.1 Factory.runtimeconfig.dev.json
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\3.1 Factory\bin\Debug\netcoreapp3.1\3.1 Factory.dll
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\3.1 Factory\bin\Debug\netcoreapp3.1\3.1 Factory.pdb
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\3.1 Factory\obj\Debug\netcoreapp3.1\3.1 Factory.AssemblyInfoInputs.cache
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\3.1 Factory\obj\Debug\netcoreapp3.1\3.1 Factory.AssemblyInfo.cs
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\3.1 Factory\obj\Debug\netcoreapp3.1\3.1 Factory.csproj.CoreCompileInputs.cache
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\3.1 Factory\obj\Debug\netcoreapp3.1\3.1 Factory.dll
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\3.1 Factory\obj\Debug\netcoreapp3.1\3.1 Factory.pdb
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\3.1 Factory\obj\Debug\netcoreapp3.1\3.1 Factory.genruntimeconfig.cache

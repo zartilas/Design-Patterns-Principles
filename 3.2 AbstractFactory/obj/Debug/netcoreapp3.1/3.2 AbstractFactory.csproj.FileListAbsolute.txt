@@ -1,0 +1,13 @@
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\3.2 AbstractFactory\bin\Debug\netcoreapp3.1\3.2 AbstractFactory.exe
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\3.2 AbstractFactory\bin\Debug\netcoreapp3.1\3.2 AbstractFactory.deps.json
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\3.2 AbstractFactory\bin\Debug\netcoreapp3.1\3.2 AbstractFactory.runtimeconfig.json
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\3.2 AbstractFactory\bin\Debug\netcoreapp3.1\3.2 AbstractFactory.runtimeconfig.dev.json
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\3.2 AbstractFactory\bin\Debug\netcoreapp3.1\3.2 AbstractFactory.dll
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\3.2 AbstractFactory\bin\Debug\netcoreapp3.1\3.2 AbstractFactory.pdb
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\3.2 AbstractFactory\obj\Debug\netcoreapp3.1\3.2 AbstractFactory.csprojAssemblyReference.cache
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\3.2 AbstractFactory\obj\Debug\netcoreapp3.1\3.2 AbstractFactory.AssemblyInfoInputs.cache
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\3.2 AbstractFactory\obj\Debug\netcoreapp3.1\3.2 AbstractFactory.AssemblyInfo.cs
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\3.2 AbstractFactory\obj\Debug\netcoreapp3.1\3.2 AbstractFactory.csproj.CoreCompileInputs.cache
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\3.2 AbstractFactory\obj\Debug\netcoreapp3.1\3.2 AbstractFactory.dll
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\3.2 AbstractFactory\obj\Debug\netcoreapp3.1\3.2 AbstractFactory.pdb
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\Design Patterns - Principles\3.2 AbstractFactory\obj\Debug\netcoreapp3.1\3.2 AbstractFactory.genruntimeconfig.cache

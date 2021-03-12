@@ -1,0 +1,13 @@
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\1. Dependency Inversion\1. Dependency Inversion\obj\Debug\netcoreapp3.1\1. Dependency Inversion.csprojAssemblyReference.cache
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\1. Dependency Inversion\1. Dependency Inversion\obj\Debug\netcoreapp3.1\1. Dependency Inversion.AssemblyInfoInputs.cache
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\1. Dependency Inversion\1. Dependency Inversion\obj\Debug\netcoreapp3.1\1. Dependency Inversion.AssemblyInfo.cs
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\1. Dependency Inversion\1. Dependency Inversion\obj\Debug\netcoreapp3.1\1. Dependency Inversion.csproj.CoreCompileInputs.cache
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\1. Dependency Inversion\1. Dependency Inversion\bin\Debug\netcoreapp3.1\1. Dependency Inversion.exe
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\1. Dependency Inversion\1. Dependency Inversion\bin\Debug\netcoreapp3.1\1. Dependency Inversion.deps.json
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\1. Dependency Inversion\1. Dependency Inversion\bin\Debug\netcoreapp3.1\1. Dependency Inversion.runtimeconfig.json
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\1. Dependency Inversion\1. Dependency Inversion\bin\Debug\netcoreapp3.1\1. Dependency Inversion.runtimeconfig.dev.json
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\1. Dependency Inversion\1. Dependency Inversion\bin\Debug\netcoreapp3.1\1. Dependency Inversion.dll
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\1. Dependency Inversion\1. Dependency Inversion\bin\Debug\netcoreapp3.1\1. Dependency Inversion.pdb
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\1. Dependency Inversion\1. Dependency Inversion\obj\Debug\netcoreapp3.1\1. Dependency Inversion.dll
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\1. Dependency Inversion\1. Dependency Inversion\obj\Debug\netcoreapp3.1\1. Dependency Inversion.pdb
+D:\Downloads (HDD)\University\6th Semester\DESIGN PATTERNS\FINAL PROJECT\1. Dependency Inversion\1. Dependency Inversion\obj\Debug\netcoreapp3.1\1. Dependency Inversion.genruntimeconfig.cache
